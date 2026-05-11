@@ -177,12 +177,12 @@
             return (typeof m === 'string') ? m : (m.name || null);
         };
 
-        let html = '<div style="min-width:240px;max-width:90vw">';
+        let html = '<div style="min-width:240px;max-width:90vw;max-height:90vh;overflow:auto">';
         html += '<h3>' + escapeHtml(poi.title || '') + '</h3>';
         html += '<div><small>' + utils.formatLat(lat) + ' , ' + utils.formatLon(lon) + '</small></div>';
         
         if (poi.comment) {
-            html += '<p>' + escapeHtml(poi.comment) + '</p>';
+            html += '<pre>' + escapeHtml(poi.comment) + '</pre>';
         }
 
         const imgName = mediaName(poi.image);
