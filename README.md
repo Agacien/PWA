@@ -3,12 +3,12 @@
 On trouve ici plusieurs applications :
 
 <BR><H2>tagmoi</H2><BR>
-<A href="https://bernardhoyez.github.io/PWA/tagmoi/">tagmoi</A>
+<A href="https://agacien.github.io/PWA/tagmoi/">tagmoi</A>
 <BR>Cette application tague les images en bas à gauche avec les coordonnées GPS.
 ________________________________________________
 
 <BR><H2>Allez-y</H2><BR>
-<A href="https://bernardhoyez.github.io/PWA/Allez-y/">Allez-y</A>
+<A href="https://agacien.github.io/PWA/Allez-y/">Allez-y</A>
 <BR>Cette application prend en entrée un point de destination. 
 Elle affiche sur une carte OSM la position actuelle de l'utilisateur du smartphone.
 Elle affiche la distance en mètres au point de destination,
@@ -16,7 +16,7 @@ ainsi que l'azimut à suivre pour l'atteindre.
 _________________________________________________
 
 <BR>editeur_V7G<BR>
-<A href="https://bernardhoyez.github.io/PWA/editeur_V7G">Editeur de visite</A>
+<A href="https://agacien.github.io/PWA/editeur_V7G">Editeur de visite</A>
 
 <BR>C'est un editeur de visite. 
 Elle construit un certain nombre de point d'intérêt (POI).
@@ -28,7 +28,7 @@ par une application de visualisation cartographique.
 __________________________________________________
 <BR>
 editgrok<BR>
- <A href="https://bernardhoyez.github.io/PWA/editgrok">Editeur de visite Grok</A>
+ <A href="https://agacien.github.io/PWA/editgrok">Editeur de visite Grok</A>
 <P></P>
 Cette appli d'édition de visite fonctionne et génère un fichier zip en sortie
 <HR>
@@ -36,7 +36,7 @@ Cette appli d'édition de visite fonctionne et génère un fichier zip en sortie
 
 <BR>suivons le guide_V8G<BR>
 Guide de terrain<BR>
-<A href="https://bernardhoyez.github.io/PWA/suivons le guide_V8G">Visualiseur de visite</A>
+<A href="https://agacien.github.io/PWA/suivons le guide_V8G">Visualiseur de visite</A>
 <BR>
 Le fichier Zip produit par l'éditeur sert à guider l'utilisateur sur le terrain. 
 Elle affiche les POI avec tous les médias associés sur une carte OSM.
@@ -44,7 +44,7 @@ La position de l'utilisateur est symbolisée par un marqueur mobile avec l'utili
 La distance en mètres et l'azimut pour l'atteindre sont affichés.<P>
 ________________________________________
 GuideClaude2
-<A HREF="https://bernardhoyez.github.io/PWA/GuideClaude2/">GuideClaude2</A>
+<A HREF="https://agacien.github.io/PWA/GuideClaude2/">GuideClaude2</A>
 <BR>
 Guide de terrain, version Claude<BR>
 1. Chargement des données ZIP
@@ -94,12 +94,12 @@ Service Worker intégré.
 
 Editeur de visite<BR>
 <B><H2>editpoih<B></H2><BR>
-<A HREF="https://bernardhoyez.github.io/PWA/editpoih/">editpoih</A>
+<A HREF="https://agacien.github.io/PWA/editpoih/">editpoih</A>
 <BR>Cet éditeur de visite est le plus avancé des projets de ce genre
 <HR>
 Visualiseur de visite<BR>
 <B>visupoi</B><BR>
-<A HREF="https://bernardhoyez.github.io/PWA/visupoi/">visupoi</A>
+<A HREF="https://agacien.github.io/PWA/visupoi/">visupoi</A>
 <BR>Le plus avancé des guides de visite
 <BR>Fonctionne bien avec l'éditeur editpoih
 
@@ -107,7 +107,7 @@ ______________________________________________________________________
 
 Visualiseur de visite<BR>
 <B><H2>visupoicd</H2></B><BR>
-<A HREF="https://bernardhoyez.github.io/PWA/visupoicd/">visupoicd</A>
+<A HREF="https://agacien.github.io/PWA/visupoicd/">visupoicd</A>
 <BR>Le plus avancé des guides de visite
 <BR>Fonctionne bien avec l'éditeur editpoih, avec en plus une lightbox (un clic sur l'image ouvre une lightbox zoomable)
 
@@ -119,7 +119,7 @@ Application <B><H2>trouvecoord</H2></B> <P>
 Cette application permet de sélectionner une photo géolocalisée (hors galerie), d'afficher ses coordonnées géographiques sous 3 formats et d'afficher sa position sur une carte IGN. <BR>
 TrouveCoord est maintenant pleinement opérationnelle sur :
 
-URL : https://bernardhoyez.github.io/PWA/trouvecoord/
+URL : https://agacien.github.io/PWA/trouvecoord/
 Fond de carte : Plan IGN via la Géoplateforme ✅
 Extraction GPS : Métadonnées EXIF des photos ✅
 3 formats de coordonnées : Degrés décimaux, minutes décimales, degrés sexagésimaux ✅
@@ -129,14 +129,14 @@ ___________________________________________
 
 
 Application <H2>mesips</H2>
-https://bernardhoyez.github.io/PWA/mesips/
+https://agacien.github.io/PWA/mesips/
 
 Permet d'obtenir mes IP publique (V4 et V6) et privée
-URL : https://bernardhoyez.github.io/PWA/mesips/
+URL : https://agacien.github.io/PWA/mesips/
 ____________________________________
 
 Application <H2>marche</H2>
-https://bernardhoyez.github.io/PWA/marche/
+https://agacien.github.io/PWA/marche/
 
 Une application PWA de randonnée, intitulée "marche".
 
@@ -173,7 +173,7 @@ icongene
 icongene est une PWA qui fabrique deux icones destinées à l'écriture de PWA (icon512 et icon192)
 Un texte choisi apparaît au centre de l'icône
 
-(Bernardhoyez.github.io/PWA/icongene)
+(agacien.github.io/PWA/icongene)
 _________________________________________
 # traceY
 
@@ -202,7 +202,7 @@ L'application fonctionne entièrement dans votre navigateur - aucune donnée n'e
 
 ### En ligne
 
-Accédez à l'application : [https://BernardHoyez.github.io/PWA/traceY/](https://BernardHoyez.github.io/PWA/traceY/)
+Accédez à l'application : [https://agacien.github.io/PWA/traceY/](https://BernardHoyez.github.io/PWA/traceY/)
 
 ### Étapes
 
