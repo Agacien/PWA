@@ -1,4 +1,4 @@
-<H1>Projets PWA</H1>
+<H1><B></B>Projets PWA</B></H1>
 
 On trouve ici plusieurs applications :
 <BR>
