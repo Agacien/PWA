@@ -2,9 +2,8 @@
 
 On trouve ici plusieurs applications :
 
-<!--
-<BR><H2>tagmoi</H2><BR>
-<A href="https://agacien.github.io/PWA/tagmoi/">tagmoi</A>
+<!--<BR><H2>tagmoi</H2><BR>-->
+<!--<A href="https://agacien.github.io/PWA/tagmoi/">tagmoi</A>
 <BR>Cette application tague les images en bas à gauche avec les coordonnées GPS.
 ________________________________________________
 
