@@ -97,11 +97,13 @@ Editeur de visite<BR>
 <A HREF="https://agacien.github.io/PWA/editpoih/">editpoih</A>
 <BR>Cet éditeur de visite est le plus avancé des projets de ce genre
 <HR>
+<!--
 Visualiseur de visite<BR>
 <B>visupoi</B><BR>
 <A HREF="https://agacien.github.io/PWA/visupoi/">visupoi</A>
 <BR>Le plus avancé des guides de visite
 <BR>Fonctionne bien avec l'éditeur editpoih
+-->
 
 ______________________________________________________________________
 
