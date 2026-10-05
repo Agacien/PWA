@@ -6,7 +6,7 @@ Editeur de visite :
 <H2><B>editpoih</B></H2>
 <A HREF="https://agacien.github.io/PWA/editpoih/">editpoih</A>
 <BR>
-Cet éditeur de visite est le plus avancé des projets de ce genre
+Cet éditeur de visite est le plus avancé
 
 <HR>
 
