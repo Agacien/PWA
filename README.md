@@ -2,7 +2,7 @@
 
 On trouve ici plusieurs applications... :
 <BR>
-Editeur de visite
+Editeur de visite :
 <BR>
 <HR>
 <H2><B>editpoih</B></H2><BR>
@@ -12,7 +12,8 @@ Cet éditeur de visite est le plus avancé des projets de ce genre
 
 <HR>
 
-Visualiseur de visite<BR>
+Visualiseur de visite :
+<BR>
 <H2><B>visupoicd</B></H2><BR>
 <A HREF="https://agacien.github.io/PWA/visupoicd/">visupoicd</A>
 <BR>Le plus avancé des guides de visite
