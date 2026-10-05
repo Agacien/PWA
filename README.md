@@ -1,4 +1,4 @@
-<H1><B><I>Projets PWA</I></B></H1>
+<H1><B><I>Projets PWA...</I></B></H1>
 <BR>
 <BR>
 <BR>
