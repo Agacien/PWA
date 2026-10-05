@@ -1,6 +1,7 @@
 <H1>Projets PWA</H1>
 
 On trouve ici plusieurs applications :
+
 <!--
 <BR><H2>tagmoi</H2><BR>
 <A href="https://agacien.github.io/PWA/tagmoi/">tagmoi</A>
