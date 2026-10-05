@@ -1,8 +1,9 @@
 <H1>Projets PWA</H1>
 
 On trouve ici plusieurs applications :
-
-Editeur de visite<BR>
+<BR>.
+Editeur de visite
+<BR>.
 <H2><B>editpoih</B></H2><BR>
 <A HREF="https://agacien.github.io/PWA/editpoih/">editpoih</A>
 <BR>
