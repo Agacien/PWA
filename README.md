@@ -3,15 +3,16 @@
 On trouve ici plusieurs applications :
 
 Editeur de visite<BR>
-<B><H2>editpoih<B></H2><BR>
+<H2><B>editpoih</B></H2><BR>
 <A HREF="https://agacien.github.io/PWA/editpoih/">editpoih</A>
-<BR>Cet éditeur de visite est le plus avancé des projets de ce genre
+<BR>
+Cet éditeur de visite est le plus avancé des projets de ce genre
 <HR>
 
 ______________________________________________________________________
 
 Visualiseur de visite<BR>
-<B><H2>visupoicd</H2></B><BR>
+<H2><B>visupoicd</B></H2><BR>
 <A HREF="https://agacien.github.io/PWA/visupoicd/">visupoicd</A>
 <BR>Le plus avancé des guides de visite
 <BR>Fonctionne bien avec l'éditeur editpoih, avec en plus une lightbox (un clic sur l'image ouvre une lightbox zoomable)
