@@ -1,6 +1,8 @@
 <H1>Projets PWA</H1>
 
-On trouve ici plusieurs applications... :
+On trouve ici plusieurs applications :
+<BR>
+<BR>
 <BR>
 Editeur de visite :
 <H2><B>editpoih</B></H2>
