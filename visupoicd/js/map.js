@@ -189,7 +189,7 @@
         if (imgName && mediaMapGlobal[imgName]) {
             html += '<img src="' + mediaMapGlobal[imgName] + '" ' +
                           'alt="' + escapeHtml(poi.title) + '" ' +
-                          'style="max-width:100%;display:block;margin:0.5rem 0;cursor:zoom-in;">';
+                          'style="max-width:50%;display:block;margin:0.5rem 0;cursor:zoom-in;">';
         }
 
         const audioName = mediaName(poi.audio);
